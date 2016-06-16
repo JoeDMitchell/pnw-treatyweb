@@ -1,0 +1,7 @@
+[30-Jul-2015 23:19:29 Europe/London] PHP Fatal error:  Call to undefined function bloginfo() in /home/octaveup/public_html/paw/treatyweb/wp-content/themes/treatyweb/index.php on line 10
+[30-Jul-2015 23:19:52 Europe/London] PHP Fatal error:  Call to undefined function bloginfo() in /home/octaveup/public_html/paw/treatyweb/wp-content/themes/treatyweb/index.php on line 10
+[01-Aug-2015 21:00:28 Europe/London] PHP Fatal error:  Call to undefined function bloginfo() in /home/octaveup/public_html/paw/treatyweb/wp-content/themes/treatyweb/index.php on line 10
+[25-Oct-2015 07:37:45 Europe/London] PHP Fatal error:  Call to undefined function bloginfo() in /home/octaveup/public_html/paw/treatyweb/wp-content/themes/treatyweb/index.php on line 10
+[25-Oct-2015 07:38:05 Europe/London] PHP Fatal error:  Call to undefined function bloginfo() in /home/octaveup/public_html/paw/treatyweb/wp-content/themes/treatyweb/index.php on line 10
+[13-Feb-2016 02:07:31 Europe/London] PHP Fatal error:  Call to undefined function bloginfo() in /home/octaveup/public_html/paw/treatyweb/wp-content/themes/treatyweb/index.php on line 10
+[17-Feb-2016 22:02:03 Europe/London] PHP Fatal error:  Call to undefined function bloginfo() in /home/octaveup/public_html/paw/treatyweb/wp-content/themes/treatyweb/index.php on line 10
